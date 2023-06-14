@@ -2,7 +2,6 @@
 LLP production and decay files for simulation of p p -> h -> XX, X -> bb, gg at the HL-LHC in the MATHUSLA (or other transverse LLP) detector
 
 
-
 BENCHMARK MODEL:
 
 pp -> h, h -> XX
@@ -21,7 +20,7 @@ LLP PRODUCTION:
 =================
 Higgs production was simulated in madgraph for both gluon fusion and vector boson fusion
 
-ggF: simulated at lowest order in HEFT model, for 0 + 1 jet matched, pythia8 for showering. events were reweighted as a function of pT to match NLO + NNLL sigma/dpT prediction by HqT 2.0. 
+ggF: simulated at lowest order in HEFT model, for 0 + 1 jet matched, pythia8 for showering. Events were reweighted as a function of pT to match NLO + NNLL dsigma/dpT prediction by HqT 2.0. 
  
 VBF: simulated at lowest order in SM model, pythia8 for showering. 
 
