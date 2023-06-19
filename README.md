@@ -1,5 +1,7 @@
 # MATHUSLA_LLPfiles_HXX
-LLP production and decay files for simulation of p p -> h -> XX, X -> bb, gg at the HL-LHC in the MATHUSLA (or other transverse LLP) detector
+LLP production and decay files for simulation of p p -> h -> XX, X -> bb, gg at the HL-LHC in the MATHUSLA (or other transverse LLP) detector. 
+By David Curtin and Jaipratap Grewal
+June 2023
 
 NOTE: the LLP decay files for H_XX are too large for github and I don't feel like wrestling with LFS. Download them all as a zip at this google drive link:
 https://drive.google.com/file/d/15HQ95szei6qOVIhvyK4CblzGNh83FtMH/view?usp=sharing
