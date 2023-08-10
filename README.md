@@ -56,7 +56,7 @@ E, pX, pY, pZ, mass, PID, particle name.
 note not all PIDs have a 'particle name' entry, that column is just for convenience.
 
 
-USAGE FOR MATHUSLA GEANT SIMULATIONS
+USAGE FOR GEANT SIMULATIONS
 =======================================
 
 Select some LLP mass mX to study, say mX = 20 GeV. 
